@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kaio </h1>
 <h3 align="center">Future Data Dcientist passionate about Physics. I'm currently majoring in physics at Universidade Federal do Rio de Janeiro (UFRJ)</h3>
 <ul>
-<li>🔭 I’m currently working on [Classification_Stars](https://colab.research.google.com/drive/1cj3kwPAOg7LJ4k7Npvc4qv0Gq370kRNf?authuser=1#scrollTo=zmzh6-haVcQh)</li>
+<li>🔭 I’m currently working on Classification_Stars project (https://colab.research.google.com/drive/1cj3kwPAOg7LJ4k7Npvc4qv0Gq370kRNf?authuser=1#scrollTo=zmzh6-haVcQh)</li>
 <li>📫 How to reach me - kaio.lopesof@gmail.com  </li>
-<li>👯Find out more about me at - **https://www.linkedin.com/in/kaio-lopes-b91b57251/** </li>
+<li>👯Find out more about me at - https://www.linkedin.com/in/kaio-lopes-b91b57251/ </li>
 <li>📄 Know about my experiences - Developing data analysis and machine learning projects </li>
 <li>⚡ Fun fact -  I love football and I love theorizing about cosmology, astrophysics</li>
 </ul>
