@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Kaio </h1>
 <h3 align="center"> Data Dcientist passionate about Physics. </h3>
+<h2 align="center"> Passionate about learning new things, I am an astrophysics enthusiast and a data scientist dedicated to uncovering the mathematics behind various phenomena. I specialize in developing data visualization and machine learning projects, primarily using Python and R. Additionally, I have a strong background in Physics, Calculus, and Statistics, allowing me to tackle problems analytically and creatively. </h2>
+
 <ul>
 <li> 🏫I'm majoring in Physics at Universidade Federal do Rio de Janeiro (UFRJ) </li>
 <li>🔭 I’m currently working on Classification_Stars project (https://colab.research.google.com/drive/1cj3kwPAOg7LJ4k7Npvc4qv0Gq370kRNf?authuser=1#scrollTo=zmzh6-haVcQh)</li>
