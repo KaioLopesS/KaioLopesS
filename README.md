@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Kaio </h1>
-<h2 align="center"> Data Scientist passionate about Physics. </h2>
+<h2 align="center"> Data Scientist with a deep passion for Physics and its real-world applications </h2>
 <h3 align="justify"> Lifelong learner, deeply passionate about astrophysics and data science. Focused on uncovering the mathematical foundations of various phenomena through data visualization and machine learning, primarily using Python and R. With a strong background in Physics, Calculus, and Statistics, approaches complex problems analytically and creatively. Creator of the Celestial Equations channel, producing educational animations about physics and mathematics using Manim, a Python library for mathematical animations. </h3>
 
 <ul>
