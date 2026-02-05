@@ -4,7 +4,7 @@
   <h1 align="center">Olá, eu sou o Kaio!</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=FV+Almelo&size=22&pause=1000&color=338BF7&center=true&vCenter=true&width=500&lines=Cientista+de+Dados;Apaixonado+por+Física+e+Cosmologia;Criador+do+Canal+Celestial+Equations;Estudante+de+Física+na+UFRJ" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=FV+Almelo&size=22&pause=1000&color=338BF7&center=true&vCenter=true&width=500&lines=Cientista+de+Dados;Apaixonado+por+Física+e+Programação;Criador+do+Canal+Celestial+Equations;Estudante+de+Física+na+UFRJ" alt="Typing SVG" />
   </a>
 </div>
 
