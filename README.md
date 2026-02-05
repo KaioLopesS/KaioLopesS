@@ -25,7 +25,7 @@ Com uma base sólida em <b>Física, Cálculo e Estatística</b> (atualmente grad
 ### 🚀 Projetos e Status Atual
 
 - 🏫 **Formação:** Graduando em Física na **Universidade Federal do Rio de Janeiro (UFRJ)**.
-- 🔭 **Trabalhando em:** Celestial Equations animations.
+- 🔭 **Trabalhando em:** Animações do Celestial Equations e no Celestial Lab
 - 📄 **Experiência:** Desenvolvimento de projetos de análise de dados e Machine Learning.
 
 ---
