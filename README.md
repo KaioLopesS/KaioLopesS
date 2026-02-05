@@ -1,36 +1,76 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi, I'm Kaio </h1>
-<h2 align="center"> Data Scientist with a deep passion for Physics and its real-world applications </h2>
-<h3 align="justify"> Lifelong learner, deeply passionate about astrophysics and data science. Focused on uncovering the mathematical foundations of various phenomena through data visualization and machine learning, primarily using Python and R. With a strong background in Physics, Calculus, and Statistics, approaches complex problems analytically and creatively. Creator of the Celestial Equations channel, producing educational animations about physics and mathematics using Manim, a Python library for mathematical animations. </h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <br/>
+  <h1 align="center">Olá, eu sou o Kaio!</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=FV+Almelo&size=22&pause=1000&color=338BF7&center=true&vCenter=true&width=500&lines=Cientista+de+Dados;Apaixonado+por+Física+e+Cosmologia;Criador+do+Canal+Celestial+Equations;Estudante+de+Física+na+UFRJ" alt="Typing SVG" />
+  </a>
+</div>
 
-<ul>
-<li>🏫I'm majoring in Physics at Universidade Federal do Rio de Janeiro (UFRJ) </li>
-<li>🔭 I’m currently working on Classification_Stars project (https://colab.research.google.com/drive/1cj3kwPAOg7LJ4k7Npvc4qv0Gq370kRNf?authuser=1#scrollTo=zmzh6-haVcQh)</li>
-<li>📫 How to reach me - kaio.lopesof@gmail.com  </li>
-<li>👯Find out more about me at - https://www.linkedin.com/in/kaio-lopes-b91b57251/ </li>
-<li>📄 Know about my experiences - Developing data analysis and machine learning projects </li>
-<li>⚡ Fun fact -  I love football and I love theorizing about cosmology, astrophysics</li>
-</ul>
-<div> <a href="https://www.linkedin.com/in/kaio-lopes-b91b57251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/KaioLopesS" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:kaio.lopesof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kaio-lopes-b91b57251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaio-lopes-b91b57251/" height="30" width="40" /></a></p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<div align="center">
+  <h3> 🔭 Explorando o Universo através dos Dados </h3>
+</div>
+
+<p align="justify">
+Sou uma pessoa que adora aprender coisaas novas, focando no <b>Ensino de Física</b> e <b>Ciência de Dados</b>. 
+<br/><br/>
+Com uma base sólida em <b>Física, Cálculo e Estatística</b> (atualmente graduando na <b>UFRJ</b>), abordo problemas complexos de forma analítica. Também sou o criador do canal <b>Celestial Equations</b>, onde produzo animações educacionais sobre física e matemática usando <b>Manim</b> (Python).
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioLopesS&langs_count=8&theme=dark" alt=KaioLopesS />
+---
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioLopesS&show_icons=true&locale=en&theme=dark" alt="KaioLopesS" /></p>
+### 🚀 Projetos e Status Atual
+
+- 🏫 **Formação:** Graduando em Física na **Universidade Federal do Rio de Janeiro (UFRJ)**.
+- 🔭 **Trabalhando em:** Celestial Equations animations.
+- 📄 **Experiência:** Desenvolvimento de projetos de análise de dados e Machine Learning.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=pandas&logoColor=44A833" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+<br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Manim-Community-blue?style=for-the-badge" />
+
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/KaioLopesS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioLopesS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioLopesS&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### 📫 Vamos Conectar?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kaio-lopes-b91b57251/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kaio.lopesof@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
